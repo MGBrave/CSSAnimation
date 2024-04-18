@@ -3,9 +3,8 @@
 
 ## 📚 Índice
 
-❤️
- [Heart Animation](pages/materiais-gratuitos-para-sites.br.md#-imagens)<br>
- 🐍 [Snake_Border]()<br>
+❤️[Heart Animation](https://github.com/MGBrave/CSSAnimation/tree/main/heart_animatedII)<br>
+ 🐍[Snake_Border]()<br>
 
 
 <br>
