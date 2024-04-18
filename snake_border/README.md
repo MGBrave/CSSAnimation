@@ -8,12 +8,12 @@
 
 
 <p align="center">
-  <img src="https://github.com/MGBrave/CSSAnimation/blob/main/heart_animatedII/prot.png?raw=true" width="500" target:"_blank" alt="Heart Animation"  width="90">
+  <img src="https://github.com/MGBrave/CSSAnimation/blob/main/snake_border/land.png?raw=true" width="500" target:"_blank" alt="Heart Animation"  width="90">
 </p>
 
 <br>
 
-[DEMO](https://codepen.io/martageraldo/full/KKEEWOW)
+[DEMO](https://codepen.io/martageraldo/full/QWPZJpO)
 
 ### Tecnologias Utilizadas
 
